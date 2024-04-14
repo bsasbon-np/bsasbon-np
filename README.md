@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Product Builder from Buenos Aires 🧉</h3>
 
 - 🔭 I’m Co-Founder of [NeoPower](https://www.neopower.digital/), a Web3 Software Studio
+- 💻 I'm a Systems Engineer from [UTN (National Technological University)](https://twitter.com/frbautn)
 - 🧉 I created [Argiefy](https://twitter.com/argiefy), a PWA to simplify financial calculations in Argentina
 - 📝 I regularly write articles on [https://medium.com/@NeoPowerDigital](https://medium.com/@NeoPowerDigital)
 - 📫 How to reach me [@briansasbon](https://x.com/briansasbon)
